@@ -4,8 +4,6 @@ Hey, I'm @Llads. At the moment I'm primarily programming using goLang, but I pla
 
 ### Personal Projects
 
-Snpr  
-🎁A Minecraft username sniper for acquiring original names on your accounts.
+Eagle 
+🎁A Minecraft username sniper for acquiring original names on your accounts. Written in goLang with future fasthttp implementation.
 
-Posttrack  
-📦A Discord server bot to update you on the progress of your package. Written in goLang.
